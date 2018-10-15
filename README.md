@@ -5,19 +5,20 @@ This text represents some of my personal informations, as a cv.
 ## Personal Details
 
 
-I live in Ymittos, Athens.
+I grew up in Ymittos, Athens.
+
+Currently live in Corfu.
 
 Born in 10/07/1999
-
-Personal e-mail: har_is99@hotmail.com
 
 Ionian University e-mail: p17taka@ionio.gr
 
 
 ## Studies
 
+Graduated student of 3rd High School of Ymittos. 
 
-Undergraduate Student of Ionioan University (Department of Informatics)
+Undergraduate Student of Ionioan University (Department of Informatics).
 
 
 ## Work Experience
