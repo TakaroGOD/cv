@@ -1,5 +1,5 @@
 ## Curriculum Vitae
-This text represents personal information, as a cv.
+This text represents some of my personal informations, as a cv.
 
 
 ## Personal Details
